@@ -1,4 +1,4 @@
-# insertionsort.py
+insertionsort.py
 def insertion_sort(elements):
     for i in range(1, len(elements)):
         anchor = elements[i]
